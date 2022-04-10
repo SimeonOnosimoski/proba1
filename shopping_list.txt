@@ -1,5 +1,5 @@
-Bread
-Milk 
-Potatoes
-Apple
-Onions 
+Bread x 1
+Milk x 2
+Potatoes x 5
+Apple x 5 
+Onions x 3
